@@ -28,7 +28,7 @@ To use this payroll engine for your studio, follow these simple steps:
 
 ### 1. Make a Copy of the Database Template
 - Click the link below to copy the pre-formatted Google Sheet to your own Google Drive:
-  👉 [**Click Here to Copy the Payroll Template**](YOUR_GOOGLE_SHEET_COPY_LINK_HERE)
+  👉 [**Click Here to Copy the Payroll Template**]([YOUR_GOOGLE_SHEET_COPY_LINK_HERE](https://docs.google.com/spreadsheets/d/15wBhd_rBD_qW7ntqU1bDy1WhYhhvtQZL/edit?usp=sharing&ouid=110827027590017422909&rtpof=true&sd=true))
 
 ### 2. Setup the Automation Logic (Google Apps Script)
 - Open your newly copied Google Sheet.
